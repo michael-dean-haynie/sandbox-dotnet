@@ -1,4 +1,4 @@
-namespace LeetCode.Problems._4Sum;
+namespace LeetCode.Problems._18_4Sum;
 
 public class EditorialSolution {
     public IList<IList<int>> FourSum(int[] nums, int target) {

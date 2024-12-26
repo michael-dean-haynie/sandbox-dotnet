@@ -1,4 +1,4 @@
-namespace LeetCode.Problems._4Sum;
+namespace LeetCode.Problems._18_4Sum;
 
 // https://leetcode.com/problems/4sum/description/
 public class Solution {
