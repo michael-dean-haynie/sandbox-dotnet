@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{D3C3F286-4836-4AC2-A975-48BBBC94A9D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{CEE38515-537F-452B-B978-750EB63FD4AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D3C3F286-4836-4AC2-A975-48BBBC94A9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3C3F286-4836-4AC2-A975-48BBBC94A9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3C3F286-4836-4AC2-A975-48BBBC94A9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3C3F286-4836-4AC2-A975-48BBBC94A9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE38515-537F-452B-B978-750EB63FD4AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE38515-537F-452B-B978-750EB63FD4AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE38515-537F-452B-B978-750EB63FD4AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE38515-537F-452B-B978-750EB63FD4AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
